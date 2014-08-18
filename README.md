@@ -11,7 +11,7 @@ The code is licensed under the Apache v2 license. Feel free to use all or portio
 
 Mark Fuge, Alice Agogino.  "User Research Methods for Development Engineering: A Study of Method Usage with IDEO's HCD Connect," for Proceedings of ASME 2014 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, August 17-20, 2014, Buffalo, USA.
 
-    @conference{fuge:user_research_hcd_IDETC_2014,
+    @inproceedings{fuge:user_research_hcd_IDETC_2014,
         author = {Mark Fuge and Alice Agogino},
         title = {User Research Methods for Development Engineering: A Study of Method Usage with {IDEO}'s {HCD Connect}},
         booktitle = {ASME International Design Engineering Technical Conferences},
